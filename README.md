@@ -62,4 +62,4 @@ me = {
 </div>
 <br />
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=Waving)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=Waving&color=timeGradient)
