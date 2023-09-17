@@ -62,6 +62,14 @@ me = {
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
+
+## 📚 Education
+### [[SeSAC] 파이썬 기반의 풀스택 웹서비스 개발 과정 (2023.06 ~ 2023.09)](https://github.com/Minjoo522/SeSAC)
+- Python
+- 웹 프로그래밍(HTML/CSS/JS)
+- Flask/Django 기반 백엔드, 데이터베이스, AWS 클라우드, 리눅스 서버 운용, 웹서버 / DB 서버 구측 등
+- 도커 컨테이너를 통한 앱 패키징 / 이미지 커밋 / 배포
+
 <br />
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=Waving&color=timeGradient)
