@@ -19,7 +19,7 @@ me = {
         'front_end': ['javascript', 'react', 'html5', 'css3'],
         'tools': ['git', 'github', 'notion', 'figma'],
     },
-    'language_skill': ['Korean, 'English', 'Chinese', 'Japanese'],
+    'language_skill': ['Korean', 'English', 'Chinese', 'Japanese'],
     'contact': '0522minjoo@gmail.com',
 }
 ~~~
