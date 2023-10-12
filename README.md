@@ -15,8 +15,8 @@ me = {
     'name': 'Kim Minjoo',
     'tech_stacks': {
         'back_end': ['python', 'django', 'flask', 'aws', 'docker', 'selenium'],
-        'data_base': ['sqlite', 'mysql'],
-        'front_end': ['javascript', 'react', 'html5', 'css3'],
+        'data_base': ['sqlite', 'mysql', 'firebase'],
+        'front_end': ['javascript', 'react', 'html5', 'css3', 'bootstrap', 'tailwind'],
         'tools': ['git', 'github', 'notion', 'figma'],
     },
     'language_skill': ['Korean', 'English', 'Chinese', 'Japanese'],
