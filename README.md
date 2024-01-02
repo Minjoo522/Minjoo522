@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi,%20I'm%20Minjoo!&desc=Welcome%20to%20my%20github❤️&descAlignY=65&descAlign=85&fontAlign=72)
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=timeGradient&text=Hi,%20I'm%20Minjoo!&desc=Welcome%20to%20my%20github❤️&descAlignY=65&descAlign=85&fontAlign=72)
 
 <div align='center'>
   
@@ -78,4 +78,4 @@ me = {
 
 <br />
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&descAlignY=65&descAlign=85&fontAlign=72&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&descAlignY=65&descAlign=85&fontAlign=72&section=footer)
