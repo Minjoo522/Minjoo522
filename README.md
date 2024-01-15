@@ -34,9 +34,13 @@ me = {
 </div>
 
 ## 📁 Projects
+<div align="center">
+
 |title|period|introduction|repository|
 |:--:|:--:|--|:--:|
 |Day-Pl|`23-07-18` <br /> - <br /> `23-09-26`|서울 중심의 데이트/여행/투어 플랜을 모아보고 계획하고 공유하는 웹 서비스|[Click❗️](https://github.com/Day-PL/Day_Pl)|
+
+</div>
 
 ## 🛠️ Tech Stacks
 ### BackEnd
