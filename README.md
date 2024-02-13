@@ -14,12 +14,12 @@
 me = {
     'name': 'Kim Minjoo',
     'tech_stacks': {
-        'back_end': ['python', 'django', 'flask', 'aws', 'docker', 'selenium'],
+        'back_end': ['Java', 'python', 'django', 'flask', 'aws', 'docker'],
         'data_base': ['sqlite', 'mysql', 'firebase'],
         'front_end': ['javascript', 'react', 'html5', 'css3', 'bootstrap', 'tailwind'],
         'tools': ['git', 'github', 'notion', 'figma'],
     },
-    'language_skill': ['Korean', 'English', 'Chinese', 'Japanese'],
+    'language_skill': ['English', 'Chinese', 'Japanese'],
     'contact': '0522minjoo@gmail.com',
 }
 ~~~
@@ -45,12 +45,12 @@ me = {
 ## 🛠️ Tech Stacks
 ### BackEnd
 <div>
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=Flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=Django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
 </div>
 
 ### DataBase
@@ -79,11 +79,17 @@ me = {
 </div>
 
 ## 📚 Education
-### [[SeSAC] 파이썬 기반의 풀스택 웹서비스 개발 과정 (2023.06 ~ 2023.09)](https://github.com/Minjoo522/SeSAC)
-- Python
-- 웹 프로그래밍(HTML/CSS/JS)
-- Flask/Django 기반 백엔드, 데이터베이스, AWS 클라우드, 리눅스 서버 운용, 웹서버 / DB 서버 구측 등
-- 도커 컨테이너를 통한 앱 패키징 / 이미지 커밋 / 배포
+|기간|내용|Repository|
+|:--:|--|:--:|
+|2024.02 ~ 진행중|[우아한테크코스] 6기 백엔드|[🩵 Repository](https://github.com/Minjoo522/wooteco)
+|2023.06 ~ 2023.09|[SeSAC] 파이썬 기반의 풀스택 웹서비스 개발 과정|[🌱 Repository](https://github.com/Minjoo522/SeSAC)|
+
+## 🔤 Language-Skill
+|language|certificate|level|date of acquisition|
+|:--:|:--:|:--:|:--:|
+|English|OPIc|IH(Intermediate High)|2024-02-08|
+|Chinese|新HSK|Level 6|2023-05-14|
+|Japanese|JLPT|N2|2023-01-12|
 
 <br />
 
