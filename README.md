@@ -10,20 +10,6 @@
 </div>
 <br />
 
-~~~python
-me = {
-    'name': 'Kim Minjoo',
-    'tech_stacks': {
-        'back_end': ['Java', 'python', 'django', 'flask', 'aws', 'docker'],
-        'data_base': ['sqlite', 'mysql', 'firebase'],
-        'front_end': ['javascript', 'react', 'html5', 'css3', 'bootstrap', 'tailwind'],
-        'tools': ['git', 'github', 'notion', 'figma'],
-    },
-    'language_skill': ['English', 'Chinese', 'Japanese'],
-    'contact': '0522minjoo@gmail.com',
-}
-~~~
-
 <br />
 
 ## 📨 Contact
